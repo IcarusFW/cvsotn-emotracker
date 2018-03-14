@@ -1,0 +1,9 @@
+﻿{
+  "name": "Castlevania: Symphony of the Night Randomizer (v1.2) - Items Only",
+  "game_name": "Castlevania: SotN Randomizer",
+  "game_variant": "Item Randomizer",
+  "package_version": "1.0.0.3",
+  "layout_engine_version": "1.0",
+  "package_uid": "cvsotn_itemsonly_icarusfw",
+  "author": "IcarusFW"
+}
