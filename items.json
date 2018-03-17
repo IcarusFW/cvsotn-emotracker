@@ -3,196 +3,196 @@
   {
     "name": "Cube of Zoe",
     "type": "toggle",
-    "img": "images/cubeofzoe.png",
+    "img": "images/cubeOfZoe.png",
     "codes": "cubeofzoe"
   },
   // Spirit Orb
   {
     "name": "Spirit Orb",
     "type": "toggle",
-    "img": "images/spiritorb.png",
+    "img": "images/spiritOrb.png",
     "codes": "spiritorb"
   },
   // Faerie Scroll
   {
     "name": "Faerie Scroll",
     "type": "toggle",
-    "img": "images/faeriescroll.png",
+    "img": "images/faerieScroll.png",
     "codes": "faeriescroll"
   },
   // Jewel of Open
   {
     "name": "Jewel of Open",
     "type": "toggle",
-    "img": "images/jewelofopen.png",
+    "img": "images/jewelOfOpen.png",
     "codes": "jewelofopen"
   },
   // Leap Stone
   {
     "name": "Leap Stone",
     "type": "toggle",
-     "img": "images/leapstone.png",
+     "img": "images/leapStone.png",
      "codes": "leapstone"
   },
   // Gravity Boots
   {
     "name": "Gravity Boots",
     "type": "toggle",
-    "img": "images/gravityboots.png",
+    "img": "images/gravityBoots.png",
     "codes": "gravityboots"
   },
   // Merman Statue
   {
     "name": "Merman Statue",
     "type": "toggle",
-    "img": "images/mermanstatue.png",
+    "img": "images/mermanStatue.png",
     "codes": "mermanstatue"
   },
   // Holy Symbol
   {
     "name": "Holy Symbol",
     "type": "toggle",
-    "img": "images/holysymbol.png",
+    "img": "images/holySymbol.png",
     "codes": "holysymbol"
   },
   // Soul of Bat
   {
     "name": "Soul of Bat",
     "type": "toggle",
-    "img": "images/soulofbat.png",
+    "img": "images/soulOfBat.png",
     "codes": "soulofbat"
   },
   // Fire of Bat
   {
     "name": "Fire of Bat",
     "type": "toggle",
-    "img": "images/fireofbat.png",
+    "img": "images/fireOfBat.png",
     "codes": "fireofbat"
   },
   // Echo of Bat
   {
     "name": "Echo of Bat",
     "type": "toggle",
-    "img": "images/echoofbat.png",
+    "img": "images/echoOfBat.png",
     "codes": "echoofbat"
   },
   // Force of Echo
   {
     "name": "Force of Echo",
     "type": "toggle",
-    "img": "images/forceofecho.png",
+    "img": "images/forceOfEcho.png",
     "codes": "forceofecho"
   },
   // Form of Mist
   {
     "name": "Form of Mist",
     "type": "toggle",
-    "img": "images/formofmist.png",
+    "img": "images/formOfMist.png",
     "codes": "formofmist"
   },
   // Power of Mist
   {
     "name": "Power of Mist",
     "type": "toggle",
-    "img": "images/powerofmist.png",
+    "img": "images/powerOfMist.png",
     "codes": "powerofmist"
   },
   // Gas Cloud
   {
     "name": "Gas Cloud",
     "type": "toggle",
-    "img": "images/gascloud.png",
+    "img": "images/gasCloud.png",
     "codes": "gascloud"
   },
   // Soul of Wolf
   {
     "name": "Soul of Wolf",
     "type": "toggle",
-    "img": "images/soulofwolf.png",
+    "img": "images/soulOfWolf.png",
     "codes": "soulofwolf"
   },
   // Power of Wolf
   {
     "name": "Power of Wolf",
     "type": "toggle",
-    "img": "images/powerofwolf.png",
+    "img": "images/powerOfWolf.png",
     "codes": "powerofwolf"
   },
   // Skill of Wolf
   {
     "name": "Skill of Wolf",
     "type": "toggle",
-    "img": "images/skillofwolf.png",
+    "img": "images/skillOfWolf.png",
     "codes": "skillofwolf"
   },
   // Faerie Card
   {
     "name": "Faerie Card",
     "type": "toggle",
-    "img": "images/faeriecard.png",
+    "img": "images/cardFaerie.png",
     "codes": "faeriecard"
   },
   // Demon Card
   {
     "name": "Demon Card",
     "type": "toggle",
-    "img": "images/demoncard.png",
+    "img": "images/cardDemon.png",
     "codes": "demoncard"
   },
   // Bat Card
   {
     "name": "Bat Card",
     "type": "toggle",
-    "img": "images/batcard.png",
+    "img": "images/cardBat.png",
     "codes": "batcard"
   },
   // Ghost Card
   {
     "name": "Ghost Card",
     "type": "toggle",
-    "img": "images/ghostcard.png",
+    "img": "images/cardGhost.png",
     "codes": "ghostcard"
   },
   // Sword Card
   {
     "name": "Sword Card",
     "type": "toggle",
-    "img": "images/swordcard.png",
+    "img": "images/cardSword.png",
     "codes": "swordcard"
   },
   // Eye of Vlad
   {
     "name": "Eye of Vlad",
     "type": "toggle",
-    "img": "images/eyeofvlad.png",
+    "img": "images/eyeOfVlad.png",
     "codes": "eyeofvlad"
   },
   // Rib of Vlad
   {
     "name": "Rib of Vlad",
     "type": "toggle",
-    "img": "images/ribofvlad.png",
+    "img": "images/ribOfVlad.png",
     "codes": "ribofvlad"
   },
   // Heart of Vlad
   {
     "name": "Heart of Vlad",
     "type": "toggle",
-    "img": "images/heartofvlad.png",
+    "img": "images/heartOfVlad.png",
     "codes": "heartofvlad"
   },
   // Tooth of Vlad
   {
     "name": "Tooth of Vlad",
     "type": "toggle",
-    "img": "images/toothofvlad.png",
+    "img": "images/toothOfVlad.png",
     "codes": "toothofvlad"
   },
   // Ring of Vlad
   {
     "name": "Ring of Vlad",
     "type": "toggle",
-    "img": "images/ringofvlad.png",
+    "img": "images/ringOfVlad.png",
     "codes": "ringofvlad"
   }
 ]
